@@ -2,8 +2,8 @@ package my;
 
 public class debug {
 	public static void main (String[] args) {
-		System.out.println("Ò»·½·¨¼û¸½¼þ66");
-		System.out.println("µÚ¶þÐÐ");
+		System.out.println("ç¬¬ä¸€è¡Œ66");
+		System.out.println("ç¬¬äºŒè¡Œ");
 		System.out.println("123");
 	}
 		
